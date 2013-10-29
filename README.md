@@ -9,7 +9,7 @@ Change to the project's directory:
 	$ cd ./go-testing-example
 
 To run the tests:
- 
+   
 	$ go test
 
 To run the benchmarks:
